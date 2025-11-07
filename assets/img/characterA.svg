@@ -1,1 +1,51 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-label="Pixar-style Black CEO woman illustration">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5d76e"/>
+      <stop offset="50%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#a57c00"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11c9c4"/>
+      <stop offset="100%" stop-color="#0a8f8b"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="24" fill="#0c1222"/>
+  <g transform="translate(120,60)">
+    <!-- hair -->
+    <ellipse cx="200" cy="140" rx="170" ry="120" fill="#2a1c1a"/>
+    <!-- face -->
+    <ellipse cx="200" cy="190" rx="100" ry="110" fill="#5a3a2d"/>
+    <!-- eyes -->
+    <ellipse cx="170" cy="190" rx="16" ry="12" fill="#fff"/>
+    <circle cx="170" cy="190" r="6" fill="#2b2b2b"/>
+    <ellipse cx="230" cy="190" rx="16" ry="12" fill="#fff"/>
+    <circle cx="230" cy="190" r="6" fill="#2b2b2b"/>
+    <!-- nose -->
+    <path d="M200 190 q-8 24 10 24" stroke="#3b2820" stroke-width="4" fill="none"/>
+    <!-- mouth -->
+    <path d="M170 240 q30 24 60 0" stroke="#c96a6a" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <!-- earrings -->
+    <circle cx="118" cy="222" r="10" fill="url(#gold)"/>
+    <circle cx="282" cy="222" r="10" fill="url(#gold)"/>
+    <!-- necklace -->
+    <path d="M150 280 q50 32 100 0" stroke="url(#gold)" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <!-- blazer -->
+    <path d="M100 320 l100 -60 l100 60 l80 160 l-360 0 z" fill="url(#teal)"/>
+    <!-- blouse -->
+    <path d="M170 300 l60 0 l10 90 l-80 0 z" fill="#ffffff"/>
+    <!-- laptop -->
+    <rect x="240" y="360" width="180" height="110" rx="12" fill="#0f213d" stroke="#3aa3ff" stroke-width="3"/>
+    <rect x="255" y="375" width="150" height="18" rx="9" fill="#1c2e54"/>
+    <rect x="255" y="405" width="150" height="50" rx="6" fill="#12223f"/>
+    <circle cx="320" cy="435" r="6" fill="#3aa3ff"/>
+    <!-- hand -->
+    <ellipse cx="248" cy="415" rx="20" ry="14" fill="#5a3a2d"/>
+  </g>
+  <!-- brand sparkles -->
+  <g opacity="0.8">
+    <circle cx="580" cy="80" r="4" fill="url(#gold)"/>
+    <circle cx="540" cy="120" r="3" fill="url(#gold)"/>
+    <circle cx="560" cy="160" r="5" fill="url(#gold)"/>
+  </g>
+</svg>
