@@ -20,7 +20,7 @@ a.btn.alt{background:linear-gradient(135deg,#fff,#f5f7ff); color:#0b0f1a}
 .hero{display:grid;grid-template-columns:1.1fr .9fr;gap:28px;align-items:center;margin-top:14px}
 .card{background:linear-gradient(180deg, rgba(21,30,56,.8), rgba(15,22,41,1));border:1px solid rgba(154,179,217,.12);border-radius:18px;padding:22px;box-shadow:0 10px 40px rgba(0,0,0,.35)}
 .kicker{color:var(--teal);font-weight:800;letter-spacing:.12em;text-transform:uppercase;font-size:13px}
-h1{font-size:48px;line-height:1.02;margin:8px 0 10px;font-weight:900;letter-spacing:-.01em}
+h1{font-size:72px;line-height:1.02;margin:8px 0 10px;font-weight:900;letter-spacing:-.01em}
 .sub{color:var(--muted);font-size:18px}
 .hero-cta{display:flex;gap:12px;margin-top:18px}
 .badges{display:flex;gap:12px;margin-top:18px;flex-wrap:wrap}
